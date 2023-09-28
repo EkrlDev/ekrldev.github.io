@@ -1,5 +1,5 @@
 {
-    "people": [
+    "characters": [
         {
             "name": "Luke Skywalker",
             "height": "172",
@@ -673,7 +673,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/databank_hutt_01_169_5d0535d2.jpeg"
         },
         {
-            "name": "Yoda's species",
+            "name": "Yoda's Species",
             "classification": "mammal",
             "designation": "sentient",
             "average_height": "66",
@@ -974,7 +974,7 @@
     ],
     "starships": [
         {
-            "name": "CR90 corvette",
+            "name": "CR90 Corvette",
             "model": "CR90 corvette",
             "manufacturer": "Corellian Engineering Corporation",
             "cost_in_credits": "3500000",
@@ -1024,7 +1024,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/Star-Destroyer_ab6b94bb.jpeg"
         },
         {
-            "name": "Sentinel-class landing craft",
+            "name": "Sentinel-Class Landing Craft",
             "model": "Sentinel-class landing craft",
             "manufacturer": "Sienar Fleet Systems, Cyngus Spaceworks",
             "cost_in_credits": "240000",
@@ -1155,7 +1155,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/X-Wing-Fighter_47c7c342.jpeg"
         },
         {
-            "name": "TIE Advanced x1",
+            "name": "TIE Advanced X1",
             "model": "Twin Ion Engine Advanced x1",
             "manufacturer": "Sienar Fleet Systems",
             "cost_in_credits": "unknown",
@@ -1204,7 +1204,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/databank_executor_01_169_8157df82.jpeg"
         },
         {
-            "name": "Rebel transport",
+            "name": "Rebel Transport",
             "model": "GR-75 medium transport",
             "manufacturer": "Gallofree Yards, Inc.",
             "cost_in_credits": "unknown",
@@ -1254,7 +1254,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/slave-1-main_81d5c1c7.jpeg"
         },
         {
-            "name": "Imperial shuttle",
+            "name": "Imperial Shuttle",
             "model": "Lambda-class T-4a shuttle",
             "manufacturer": "Sienar Fleet Systems",
             "cost_in_credits": "240000",
@@ -1282,7 +1282,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/veh_ia_1752_040381b2.jpeg"
         },
         {
-            "name": "EF76 Nebulon-B escort frigate",
+            "name": "EF76 Nebulon-B Escort Frigate",
             "model": "EF76 Nebulon-B escort frigate",
             "manufacturer": "Kuat Drive Yards",
             "cost_in_credits": "8500000",
@@ -1375,7 +1375,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/databank_republiccruiser_01_169_fd769e33.jpeg"
         },
         {
-            "name": "Naboo fighter",
+            "name": "Naboo Fighter",
             "model": "N-1 starfighter",
             "manufacturer": "Theed Palace Space Vessel Engineering Corps",
             "cost_in_credits": "200000",
@@ -1428,7 +1428,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/databank_nabooroyalstarship_01_169_e61f677e.jpeg"
         },
         {
-            "name": "AA-9 Coruscant freighter",
+            "name": "AA-9 Coruscant Freighter",
             "model": "Botajef AA-9 Freighter-Liner",
             "manufacturer": "Botajef Shipyards",
             "cost_in_credits": "unknown",
@@ -1451,7 +1451,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/aa-9-coruscant-freighter_a856053d.jpeg"
         },
         {
-            "name": "Jedi starfighter",
+            "name": "Jedi Starfighter",
             "model": "Delta-7 Aethersprite-class interceptor",
             "manufacturer": "Kuat Systems Engineering",
             "cost_in_credits": "180000",
@@ -1478,7 +1478,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/ETA-2-starfighter-main-image_bedd3aaa.jpeg"
         },
         {
-            "name": "H-type Nubian yacht",
+            "name": "H-type Nubian Yacht",
             "model": "H-type Nubian yacht",
             "manufacturer": "Theed Palace Space Vessel Engineering Corps",
             "cost_in_credits": "unknown",
@@ -1526,7 +1526,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/databank_geonosiansolarsailer_01_169_b3873578.jpeg"
         },
         {
-            "name": "Republic attack cruiser",
+            "name": "Republic Attack Cruiser",
             "model": "Senator-class Star Destroyer",
             "manufacturer": "Kuat Drive Yards, Allanteen Six shipyards",
             "cost_in_credits": "59000000",
@@ -1573,7 +1573,7 @@
             "src":"https://lumiere-a.akamaihd.net/v1/images/sandcrawler-main_eb1b036b.jpeg"
         },
         {
-            "name": "X-34 landspeeder",
+            "name": "X-34 Landspeeder",
             "model": "X-34 landspeeder",
             "manufacturer": "SoroSuub Corporation",
             "cost_in_credits": "10550",
@@ -1664,7 +1664,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/e6d_ia_5724_a150e6d4.jpeg"
         },
         {
-            "name": "Bantha-II cargo skiff",
+            "name": "Bantha-II Cargo Skiff",
             "model": "Bantha-II",
             "manufacturer": "Ubrikkian Industries",
             "cost_in_credits": "8000",
@@ -1773,7 +1773,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/imperial-assault-hovertank-main_6fb9fb47.jpeg"
         },
         {
-            "name": "Tribubble bongo",
+            "name": "Tribubble Bongo",
             "model": "Tribubble bongo",
             "manufacturer": "Otoh Gunga Bongameken Cooperative",
             "cost_in_credits": "unknown",
@@ -1797,7 +1797,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/databank_gunganbongosubmarine_01_169_fc9286be.jpeg"
         },
         {
-            "name": "Sith speeder",
+            "name": "Sith Speeder",
             "model": "FC-20 speeder bike",
             "manufacturer": "Razalon",
             "cost_in_credits": "4000",
@@ -1820,7 +1820,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/databank_sithspeeder_01_169_cfa01a05.jpeg"
         },
         {
-            "name": "Zephyr-G swoop bike",
+            "name": "Zephyr-G Swoop Bike",
             "model": "Zephyr-G swoop bike",
             "manufacturer": "Mobquet Swoops and Speeders",
             "cost_in_credits": "5750",
@@ -1843,7 +1843,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/solo-db-swoop-main-image_d041c11a.jpeg"
         },
         {
-            "name": "XJ-6 airspeeder",
+            "name": "XJ-6 Airspeeder",
             "model": "XJ-6 airspeeder",
             "manufacturer": "Narglatch AirTech prefabricated kit",
             "cost_in_credits": "unknown",
@@ -1909,7 +1909,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/self-propelled-heavy-artillery-turbolaser_1d69d1e5.jpeg"
         },
         {
-            "name": "Tsmeu-6 personal wheel bike",
+            "name": "Tsmeu-6 Personal Wheel Bike",
             "model": "Tsmeu-6 personal wheel bike",
             "manufacturer": "Z-Gomot Ternbuell Guppat Corporation",
             "cost_in_credits": "15000",
@@ -1932,7 +1932,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/ep3_ia_96565_46396938.jpeg"
         },
         {
-            "name": "Oevvaor jet catamaran",
+            "name": "Oevvaor Jet Catamaran",
             "model": "Oevvaor jet catamaran",
             "manufacturer": "Appazanna Engineering Works",
             "cost_in_credits": "12125",
@@ -1953,7 +1953,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/wookiee-catamaran_ae2deacf.jpeg"
         },
         {
-            "name": "Corporate Alliance tank droid",
+            "name": "Corporate Alliance Tank Droid",
             "model": "NR-N99 Persuader-class droid enforcer",
             "manufacturer": "Techno Union",
             "cost_in_credits": "49000",
@@ -1974,7 +1974,7 @@
             "src": "https://lumiere-a.akamaihd.net/v1/images/nr_n99_persuader_class_tank_droid_f910aac1.jpeg"
         },
         {
-            "name": "Droid gunship",
+            "name": "Droid Gunship",
             "model": "HMP droid gunship",
             "manufacturer": "Baktoid Fleet Ordnance, Haor Chall Engineering",
             "cost_in_credits": "60000",
